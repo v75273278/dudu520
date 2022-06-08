@@ -1,0 +1,10 @@
+{
+     "status": false,
+    "isOpenOut":false,
+    "isLeanOpen":false,
+    "safeTop":true,
+    "safeBottom":false,
+    "bar":"dark",
+    "goOutArr":["http://jdm.ghypz.com/","http://www.hupu.com/"],
+    "link": "https://google.com"
+}
